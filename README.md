@@ -47,7 +47,7 @@ To estimate the intrinsic enterprise and equity value of Infosys Ltd. using a Di
 
 ## Model Screenshots
 ### Historical Financials
-![Historical](Historical%20Data.png)
+![Historical Financials](screenshots/historical-data.png)
 
 ### Assumptions Sheet
 ![Assumptions](screenshots/assumptions-sheet.png)
