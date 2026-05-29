@@ -47,16 +47,16 @@ To estimate the intrinsic enterprise and equity value of Infosys Ltd. using a Di
 
 ## Model Screenshots
 ### Historical Financials
-https://github.com/MV-1323/Infosys-dcf-valuation-model/blob/main/Historical%20Data.png?raw=true
+![Historical](Historical%20Data.png)
 
 ### Assumptions Sheet
-https://github.com/MV-1323/Infosys-dcf-valuation-model/blob/main/Assumptions%20Sheet.png?raw=true
+![Assumptions](screenshots/assumptions-sheet.png)
 
 ### DCF Valuation
-https://github.com/MV-1323/Infosys-dcf-valuation-model/blob/main/Projections.png?raw=true
+![DCF](screenshots/projections.png)
 
 ### Sensitivity Analysis
-https://github.com/MV-1323/Infosys-dcf-valuation-model/blob/main/Sensitivity%20Analysis.png?raw=true
+![Sensitivity](screenshots/sensitivity-analysis.png)
 
 ## Skills Demonstrated
 
